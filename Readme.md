@@ -2,7 +2,7 @@
 
 A responsive **Netflix landing page clone** built with **HTML & CSS** as part of my frontend learning.
 
-🌐 **Live Demo:** [net-flix-landing-page-ui-clone.vercel.app](https://net-flix-landing-page-ui-clone.vercel.app/)
+🌐 **Live Demo:** [net-flix-landing-page-ui-clone.vercel.app](https://streaming-landing-page-ui-clone.vercel.app/)
 
 ---
 
