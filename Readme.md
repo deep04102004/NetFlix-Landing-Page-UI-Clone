@@ -1,6 +1,6 @@
 # 🎬 Netflix Landing Page UI Clone
 
-A responsive **streaming service landing page clone** built with **HTML & CSS** as part of my frontend learning.
+A responsive **Netflix-style landing page clone** built with **HTML & CSS** as part of my frontend learning journey.
 
 🌐 **Live Demo:** [streaming-landing-page-ui-clone.vercel.app](https://streaming-landing-page-ui-clone.vercel.app/)
 
@@ -17,11 +17,11 @@ A responsive **streaming service landing page clone** built with **HTML & CSS** 
 ## 🛠️ Tech Stack
 - **HTML5**
 - **CSS3**
-- **Vercel** for hosting
+- **Vercel** (for hosting)
 
 ---
 
 ## 🚀 Run Locally
 ```bash
-git clone https://github.com/deep04102004/streaming-landing-page-ui-clone.git
-cd streaming-landing-page-ui-clone
+git clone https://github.com/deep04102004/NetFlix-Landing-Page-UI-Clone.git
+cd NetFlix-Landing-Page-UI-Clone
